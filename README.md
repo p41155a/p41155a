@@ -1,7 +1,7 @@
 ### iOS Dev. 박유진
 #### Hi there 👋
 
-### [이력서](https://youjean.tistory.com/28)
+### [이력서](https://www.notion.so/e262e3f5a0af4ac69f17fc613b77745b)
 
 ##### Email : p41155a@naver.com
 ##### [Blog - tistory](https://youjean.tistory.com/) -> 메인 블로그(iOS 용)
