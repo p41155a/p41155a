@@ -1,7 +1,5 @@
-### iOS Dev. 박유진
-#### Hi there 👋
-
-<h4 align="center">👩🏻‍💻 Junior Web Developer 👩🏻‍💻</h4>
+<h4 align="center">👩🏻‍💻 iOS Dev. 박유진 👩🏻‍💻</h4>
+<p align="center"> Hi there 👋</p>
 <p align="center">
 <a target="_blank" href="https://www.notion.so/e262e3f5a0af4ac69f17fc613b77745b"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
