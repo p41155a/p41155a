@@ -1,11 +1,16 @@
 ### iOS Dev. 박유진
 #### Hi there 👋
 
-### [이력서](https://www.notion.so/e262e3f5a0af4ac69f17fc613b77745b)
+<h4 align="center">👩🏻‍💻 Junior Web Developer 👩🏻‍💻</h4>
+<p align="center">
+<a target="_blank" href="https://www.notion.so/e262e3f5a0af4ac69f17fc613b77745b"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+</p>
 
-##### Email : p41155a@naver.com
-##### [Blog - tistory](https://youjean.tistory.com/) -> 메인 블로그(iOS 용)
-##### [Blog - naver](https://blog.naver.com/p41155a) -> 다양한 컨텐츠가 들어있는 2017년 부터 꾸준히 포스팅한 550개 이상의 포스팅 존재
+<h4 align="center"><br>🎈 M O R E 🎈</h4>
+<p align="center">
+<a href="https://youjean.tistory.com/"><img src="https://img.shields.io/badge/Tistory-181717?style=flat-square&logo=Bloglovin&logoColor=white&link=https://youjean.tistory.com/"/></a>
+<a href="https://blog.naver.com/p41155a"><img src="https://img.shields.io/badge/Naver Blog-181717?style=flat-square&logo=Bloglovin&logoColor=white&link=https://blog.naver.com/p41155a"/></a>
+<a href="mailto:p41155a@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **p41155a/p41155a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
